@@ -1,6 +1,6 @@
 import dns.resolver
 import itertools
-
+##must run:pip install dnspython - to use this
 def get_subdomains(domain, subdomain_list):
     found_subdomains = []
     for sub in subdomain_list:
