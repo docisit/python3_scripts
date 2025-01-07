@@ -4,3 +4,6 @@ portscan.py -
 
 scanPorts.py-
    Another simple Python 3.11 port scanning script.  Check the key ports, to see if they are open. Also, checks and output mac addresses on the Ip range.  You can change the ip range within the code.
+
+subdomain_check.py -
+   python 3.11 script to check domain name for subdomains.
